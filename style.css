@@ -18,9 +18,12 @@ p.me{
   width: 900px;
   z-index: 15;
   top: 5%;
-  left: 10%;
+  left: 7%;
+  right: 5%;
  /* margin: -100px 0 0 -150px;*/
- margin: 0.1cm 0.1cm 0.1cm 0.1cm ;
+ bottom: 10%;
+margin-bottom: 1cm;
+ 
 	}
 
 	
