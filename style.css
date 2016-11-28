@@ -2,23 +2,29 @@
 	 background-image: url("images/citylights.jpg");
 	}
 	
-p{
+p.me{
 	font-family: Big Caslon;
 	font-style: bold;
 	font-weight: 900;
 	font-size: 50px;
 	text-shadow: 0 0 20px white, 0 0 40px white; 
 	color: rgb(11, 57, 117);
-	
+	line-height: 10%;
+  }
 	
 
-
-	}
 .main{
   position: absolute;
   width: 900px;
   z-index: 15;
-  top: 10%;
+  top: 15%;
   left: 30%;
   margin: -100px 0 0 -150px;
+	}
+
+p.quote {
+	font-weight: 900;
+	font-size: 20px;
+	color: #afc4e0;
+	 line-height: 70%;
 	}
